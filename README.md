@@ -1,6 +1,6 @@
 # The Dyrt Kamp Alanı Veri Toplayıcı
 
-Bu proje, The Dyrt web sitesinden kamp alanı verilerini toplayan, işleyen ve PostgreSQL veritabanında saklayan bir veri toplama uygulamasıdır.
+Bu proje, The Dyrt web sitesinden kamp alanı verilerini toplayan, işleyen ve PostgreSQL veritabanında saklayan bir veri toplama projesidir.
 
 ## 🚀 Özellikler
 
@@ -17,11 +17,9 @@ Bu proje, The Dyrt web sitesinden kamp alanı verilerini toplayan, işleyen ve P
 ## ⚠️ API Kısıtlamaları ve Çözümler
 
 ### OpenStreetMap Nominatim API Kısıtlamaları
-- **Rate Limiting**: API, saniyede 1 istek ile sınırlıdır
+- **Rate Limiting**: API, fazla istek atınca kısıtlıyor ve ip engeli atıyor
 - **Çözüm**: 
-  - Her istek arasında 1 saniye bekleme süresi
-  - İstek sayısını sınırlama (varsayılan: 50 adres)
-  - Hata durumunda otomatik bekleme ve yeniden deneme
+  - Ücretli bir api kullanılabilir
 
 ### The Dyrt API Kısıtlamaları
 - **Sayfalama**: Her sayfada maksimum 100 veri
