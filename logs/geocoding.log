@@ -65,3 +65,8 @@
 2025-05-11 09:41:40,976 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Iron Creek Campground Loop, Lewis County, Washington, United States
 2025-05-11 09:41:40,978 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/1 (1 baþarýlý, 0 hata)
 2025-05-11 09:41:41,980 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 1 baþarýlý, 0 hata
+2025-05-11 19:06:53,185 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 1 kamp alaný için
+2025-05-11 19:06:53,185 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=45.87&lon=-121.6272222
+2025-05-11 19:06:53,551 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Forest Road 18, Skamania County, Washington, United States
+2025-05-11 19:06:53,551 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/1 (1 baþarýlý, 0 hata)
+2025-05-11 19:06:54,557 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 1 baþarýlý, 0 hata
