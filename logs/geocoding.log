@@ -1,0 +1,67 @@
+2025-05-11 09:14:23,915 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 50 kamp alaný için
+2025-05-11 09:14:23,916 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=37.5527778&lon=-90.4372222
+2025-05-11 09:14:24,316 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Riverside Campground, Silvermine Campground Road, Madison County, Missouri, United States
+2025-05-11 09:14:24,316 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/50 (1 baþarýlý, 0 hata)
+2025-05-11 09:14:25,322 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=36.9791667&lon=-84.2666667
+2025-05-11 09:14:25,606 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Holly Bay Campground, Sheltowee Trace Trail, Baldrock, Laurel County, Kentucky, United States
+2025-05-11 09:14:25,606 - src.api_client.geocode_addresses - INFO - Ýlerleme: 2/50 (2 baþarýlý, 0 hata)
+2025-05-11 09:14:26,610 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=26.7241667&lon=-81.6927778
+2025-05-11 09:14:26,871 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: W.P. Franklin Lock and Dam Campground (North), 17850, North Franklin Lock Road, Telegraph Estates, Alva, Lee County, Florida, 33920, United States
+2025-05-11 09:14:26,871 - src.api_client.geocode_addresses - INFO - Ýlerleme: 3/50 (3 baþarýlý, 0 hata)
+2025-05-11 09:14:27,878 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=33.52987&lon=-111.39844
+2025-05-11 09:14:28,207 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Tortilla Recreation Site, Apache Trail, Tortilla Flat, Maricopa County, Arizona, United States
+2025-05-11 09:14:28,207 - src.api_client.geocode_addresses - INFO - Ýlerleme: 4/50 (4 baþarýlý, 0 hata)
+2025-05-11 09:14:29,212 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=47.6063889&lon=-116.6686111
+2025-05-11 09:14:29,535 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Beauty Creek Campground, East FS 1575, Kootenai County, Idaho, 83877, United States
+2025-05-11 09:14:29,535 - src.api_client.geocode_addresses - INFO - Ýlerleme: 5/50 (5 baþarýlý, 0 hata)
+2025-05-11 09:14:30,538 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=37.111666&lon=-119.31235
+2025-05-11 09:14:30,869 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Dorabelle Campground, Perimeter Trail, Dora Belle, Shaver Lake, Fresno County, California, 93664, United States
+2025-05-11 09:14:30,869 - src.api_client.geocode_addresses - INFO - Ýlerleme: 6/50 (6 baþarýlý, 0 hata)
+2025-05-11 09:14:49,883 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 3 kamp alaný için
+2025-05-11 09:14:49,883 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=41.9516667&lon=-90.1108333
+2025-05-11 09:14:50,143 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Thomson Sand Prairie Trail, Thomson, Carroll County, Illinois, 61285, United States
+2025-05-11 09:14:50,143 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/3 (1 baþarýlý, 0 hata)
+2025-05-11 09:14:51,152 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=39.035664&lon=-120.124928
+2025-05-11 09:14:51,420 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Meeks Bay Campground, Meek Bay Campground, Tahoe Hills, Meeks Bay, El Dorado County, California, 96142, United States
+2025-05-11 09:14:51,424 - src.api_client.geocode_addresses - INFO - Ýlerleme: 2/3 (2 baþarýlý, 0 hata)
+2025-05-11 09:14:52,426 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=41.7016667&lon=-93.6852778
+2025-05-11 09:14:52,692 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Bob Shetler, Neal Smith Trail, Polk County, Iowa, United States
+2025-05-11 09:14:52,692 - src.api_client.geocode_addresses - INFO - Ýlerleme: 3/3 (3 baþarýlý, 0 hata)
+2025-05-11 09:14:53,698 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 3 baþarýlý, 0 hata
+2025-05-11 09:24:58,093 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 3 kamp alaný için
+2025-05-11 09:24:58,118 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=38.120102&lon=-86.465578
+2025-05-11 09:24:58,534 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Perry County, Indiana, United States
+2025-05-11 09:24:58,535 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/3 (1 baþarýlý, 0 hata)
+2025-05-11 09:24:59,536 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=48.2375&lon=-116.5833333
+2025-05-11 09:24:59,829 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: 2857, Lakeshore Drive, Bonner County, Idaho, 83860, United States
+2025-05-11 09:24:59,829 - src.api_client.geocode_addresses - INFO - Ýlerleme: 2/3 (2 baþarýlý, 0 hata)
+2025-05-11 09:25:00,833 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=37.365&lon=-119.3522222
+2025-05-11 09:25:01,111 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: 42101, Mammoth Pool Road, Madera County, California, 93643, United States
+2025-05-11 09:25:01,111 - src.api_client.geocode_addresses - INFO - Ýlerleme: 3/3 (3 baþarýlý, 0 hata)
+2025-05-11 09:25:02,113 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 3 baþarýlý, 0 hata
+2025-05-11 09:28:50,133 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 3 kamp alaný için
+2025-05-11 09:28:50,135 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=32.9272222&lon=-85.1638889
+2025-05-11 09:28:50,405 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: West Point Road, West Point, Troup County, Georgia, United States
+2025-05-11 09:28:50,409 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/3 (1 baþarýlý, 0 hata)
+2025-05-11 09:28:51,410 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=37.3132167&lon=-105.1389667
+2025-05-11 09:28:51,667 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Blue Lake Campground, Blue Lakes Road, Huerfano County, Colorado, United States
+2025-05-11 09:28:51,670 - src.api_client.geocode_addresses - INFO - Ýlerleme: 2/3 (2 baþarýlý, 0 hata)
+2025-05-11 09:28:52,671 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=36.8908333&lon=-86.0952778
+2025-05-11 09:28:53,002 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: 2808, Bailey Point Road, Allen County, Kentucky, 42164, United States
+2025-05-11 09:28:53,004 - src.api_client.geocode_addresses - INFO - Ýlerleme: 3/3 (3 baþarýlý, 0 hata)
+2025-05-11 09:28:54,006 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 3 baþarýlý, 0 hata
+2025-05-11 09:41:21,608 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 50 kamp alaný için
+2025-05-11 09:41:21,671 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=46.4725&lon=-84.6391667
+2025-05-11 09:41:22,061 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Monocle Lake Campground, West Freeman Road, Bay Mills Township, Chippewa County, Michigan, 49715, United States
+2025-05-11 09:41:22,110 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/50 (1 baþarýlý, 0 hata)
+2025-05-11 09:41:23,112 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=31.1696389&lon=-97.4436333
+2025-05-11 09:41:23,375 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Bell County, Texas, United States
+2025-05-11 09:41:23,375 - src.api_client.geocode_addresses - INFO - Ýlerleme: 2/50 (2 baþarýlý, 0 hata)
+2025-05-11 09:41:24,380 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=39.5569444&lon=-111.6863889
+2025-05-11 09:41:24,619 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Maple Canyon Road, Freedom, Sanpete County, Utah, United States
+2025-05-11 09:41:24,620 - src.api_client.geocode_addresses - INFO - Ýlerleme: 3/50 (3 baþarýlý, 0 hata)
+2025-05-11 09:41:40,720 - src.api_client.geocode_addresses - INFO - Adres çözümleme baþlýyor: 1 kamp alaný için
+2025-05-11 09:41:40,722 - src.api_client.geocode_addresses - DEBUG - Adres çözümleme isteði: https://nominatim.openstreetmap.org/reverse?format=json&lat=46.4297222&lon=-121.9869444
+2025-05-11 09:41:40,976 - src.api_client.geocode_addresses - DEBUG - Adres baþarýyla çözümlendi: Iron Creek Campground Loop, Lewis County, Washington, United States
+2025-05-11 09:41:40,978 - src.api_client.geocode_addresses - INFO - Ýlerleme: 1/1 (1 baþarýlý, 0 hata)
+2025-05-11 09:41:41,980 - src.api_client.geocode_addresses - INFO - Adres çözümleme tamamlandý: 1 baþarýlý, 0 hata
